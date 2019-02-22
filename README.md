@@ -19,6 +19,4 @@
 ### Разное
 1) [SQL Tutorial](https://mode.com/sql-tutorial)
 2) Компьютерные сети и протоколы
-3) Конспект [Алгебра и математический анализ]()
-
-- добавить конспект по алгебре и матану
+3) Конспект [Алгебра и математический анализ](https://github.com/chizhonk/interview_preparation_kit/blob/master/Algebra%20%26%20Calculus.pdf)
