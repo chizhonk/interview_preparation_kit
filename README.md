@@ -8,7 +8,7 @@
 
 ### Теория вероятностей и математическая статистика
 1) Конспект [Теория вероятностей](https://github.com/chizhonk/interview_preparation_kit/blob/master/Probability%20Theory.pdf)
-2) Учебное пособие [Математическая статистика]()
+2) Учебное пособие [Математическая статистика](https://github.com/chizhonk/interview_preparation_kit/blob/master/Statistics.pdf)
 3) Задачник [Вероятность и статистика в примерах и задачах]()
 4) Парадоксы: [Парадокс Монти Холла](https://ru.wikipedia.org/wiki/Парадокс_Монти_Холла), [Задача о двух конвертах](https://ru.wikipedia.org/wiki/Задача_о_двух_конвертах)
 
