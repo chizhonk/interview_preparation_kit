@@ -3,7 +3,7 @@
 
 ### Алгоритмы
 1) Статья [Взламываем собеседования: по алгоритмам, по архитектуре, поведенческие и прочее](https://habr.com/ru/company/edison/blog/344018/)
-2) Книга [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X), русская версия - "Карьера программиста, 6 издание"
+2) Книга [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X), в интернете можно найти русскую версию
 3) Книга [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844), русская версия
 
 ### Теория вероятностей и математическая статистика
