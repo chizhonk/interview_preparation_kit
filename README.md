@@ -1,10 +1,10 @@
-# Трудоустройство 2.0
+# Interview Preparation Kit
 Здесь собраны материалы и ссылки для подготовки к собеседованиям в технологические компании.
 
 ### Алгоритмы
 1) Статья [Взламываем собеседования: по алгоритмам, по архитектуре, поведенческие и прочее](https://habr.com/ru/company/edison/blog/344018/)
 2) Книга [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X), в интернете можно найти русскую версию
-3) Книга [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844), русская версия
+3) Книга [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844), [русская версия](https://github.com/chizhonk/interview_preparation_kit/blob/master/Алгоритмы%20-%20построение%20и%20анализ.djvu)
 
 ### Теория вероятностей и математическая статистика
 1) Конспект по теории вероятностей
