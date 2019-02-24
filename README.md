@@ -1,6 +1,7 @@
 # Interview Preparation Kit
 Здесь собраны материалы и ссылки для подготовки к собеседованиям в технологические компании.
 
+
 ### Алгоритмы
 1) Статья [Взламываем собеседования: по алгоритмам, по архитектуре, поведенческие и прочее](https://habr.com/ru/company/edison/blog/344018/)
 2) Книга [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X) + в интернете можно найти русскую версию по запросу "Карьера программиста, 6-е издание"
@@ -9,7 +10,7 @@
 ### Теория вероятностей и математическая статистика
 1) Конспект [Теория вероятностей](https://github.com/chizhonk/interview_preparation_kit/blob/master/Probability%20Theory.pdf) (на основе [программы для поступления в ШАД](https://cache-mskmar11.cdn.yandex.net/download.cdn.yandex.net/shad/shad_program_v3.pdf))
 2) Учебное пособие [Математическая статистика](https://github.com/chizhonk/interview_preparation_kit/blob/master/Statistics.pdf)
-3) Задачник [Вероятность и статистика в примерах и задачах](https://github.com/chizhonk/interview_preparation_kit/blob/master/Вероятность%20и%20статистика%20в%20примерах%20и%20задачах.pdf)
+3) Задачник "Кельберт М.Я., Сухов Ю.М. Вероятность и статистика в примерах и задачах. Том 2"
 4) Парадоксы: [Парадокс Монти Холла](https://ru.wikipedia.org/wiki/Парадокс_Монти_Холла), [Задача о двух конвертах](https://ru.wikipedia.org/wiki/Задача_о_двух_конвертах)
 
 ### Машинное обучение
