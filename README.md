@@ -11,7 +11,7 @@
 1) Конспект [Теория вероятностей](https://github.com/chizhonk/interview_preparation_kit/blob/master/Probability%20Theory.pdf) (на основе [программы для поступления в ШАД](https://cache-mskmar11.cdn.yandex.net/download.cdn.yandex.net/shad/shad_program_v3.pdf))
 2) Учебное пособие [Математическая статистика](https://github.com/chizhonk/interview_preparation_kit/blob/master/Statistics.pdf)
 3) Задачник [Вероятность и статистика в примерах и задачах](http://маткнига.рф/wp-content/uploads/2017/05/978-5-4439-2326-0-Kelbert-Suhov-Veroyatnost-t1.pdf)
-4) Парадоксы: [Парадокс Монти Холла](https://ru.wikipedia.org/wiki/Парадокс_Монти_Холла), [Задача о двух конвертах](https://ru.wikipedia.org/wiki/Задача_о_двух_конвертах)
+4) Парадоксы: [Парадокс Монти Холла](https://ru.wikipedia.org/wiki/Парадокс_Монти_Холла), [Задача о двух конвертах](https://ru.wikipedia.org/wiki/Задача_о_двух_конвертах), [Парадокс Симпсона](https://ru.wikipedia.org/wiki/Парадокс_Симпсона)
 
 ### Машинное обучение
 1) Конспект [Машинное обучение и анализ данных](https://github.com/chizhonk/interview_preparation_kit/blob/master/Машинное%20обучение%20и%20анализ%20данных.pdf)
